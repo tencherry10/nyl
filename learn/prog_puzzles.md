@@ -7,4 +7,7 @@
 - [Programmr](http://www.programmr.com/)
 - [CodingBat](http://codingbat.com/)
 
+#### Puzzles
 
+- [Project Euler](https://projecteuler.net/)
+- 
