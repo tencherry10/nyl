@@ -5,7 +5,7 @@
 ### Categories
 
 * [Linux](#linux)
-* [Programming Language](#PL)
+* [Programming Language](#programming-languages)
 
 ---
 
