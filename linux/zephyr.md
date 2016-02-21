@@ -3,7 +3,7 @@
 
 > small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures
 
-## Observations
+##### Observations
 
 1. Backed by the linux foundation
 1. Open Source [Apache 2]
