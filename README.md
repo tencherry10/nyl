@@ -5,6 +5,7 @@
 ### Categories
 
 * [Code To Read](#code-to-read)
+* [Learn](#learn)
 * [Linux](#linux)
 * [Programming Language](#programming-languages)
 
@@ -13,6 +14,10 @@
 ### Code To Read
 
 - [Written In Go](ctr/golang.md)
+
+### Learn
+
+- [Programming Challenges](learn/prog_puzzles.md)
 
 ### Linux
 
