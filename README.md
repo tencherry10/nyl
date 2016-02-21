@@ -14,7 +14,7 @@
 - [Zephyr](linux/zephyr.md) - Linux distro w/ focus on IoT/Embedded Systems
 
 
-### PL
+### Programming Languages
 
 - [Luna](pl/luna.md) - graphical / visual programming language
 
