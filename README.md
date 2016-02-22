@@ -18,6 +18,7 @@
 ### Learn
 
 - [Programming Challenges](learn/prog_puzzles.md)
+- [Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
 ### Linux
 
