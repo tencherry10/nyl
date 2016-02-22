@@ -13,6 +13,7 @@
 
 ### Code To Read
 
+- [Written in C](ctr/c.md)
 - [Written In Go](ctr/golang.md)
 
 ### Learn
