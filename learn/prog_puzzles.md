@@ -1,6 +1,7 @@
 
 ### Programming Challenges / Puzzles
 
+- [Codecademy](https://www.codecademy.com/)
 - [Coderbyte](https://coderbyte.com/)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
