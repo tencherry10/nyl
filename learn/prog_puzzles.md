@@ -13,4 +13,5 @@
 
 - [Reddit Daily Programmer](https://www.reddit.com/r/dailyprogrammer)
 - [Project Euler](https://projecteuler.net/)
-
+- [Rosetta Code](http://rosettacode.org/)
+- 
