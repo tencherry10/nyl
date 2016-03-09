@@ -7,6 +7,7 @@ Important Application
 
 Important Library
 
+- [libssh](https://www.libssh.org/)
 - [libgit2](https://libgit2.github.com/)
 
 Interesting Application
