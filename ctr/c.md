@@ -2,6 +2,7 @@
 
 Important Application
 
+- [Redis](https://github.com/antirez/redis)
 - [PostgreSQL](http://git.postgresql.org/gitweb/)
 
 Important Library
