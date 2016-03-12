@@ -14,6 +14,7 @@
 ### Code To Read
 
 - [Written in C](ctr/c.md)
+- [Written in C++](ctr/cpp.md)
 - [Written In Go](ctr/golang.md)
 
 ### Learn
