@@ -33,7 +33,7 @@
 
 - [Luna](pl/luna.md) - graphical / visual programming language
 
-### Revoluationary Technology
+### Revolutionary Technology
 
 - [IPFS](http://www.infoq.com/presentations/data-ipfs-ipld)
 
