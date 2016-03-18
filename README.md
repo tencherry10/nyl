@@ -4,6 +4,7 @@
 
 ### Categories
 
+* [Revolutionary Technology](#revolutionary-technology)
 * [Code To Read](#code-to-read)
 * [Learn](#learn)
 * [Linux](#linux)
@@ -32,6 +33,8 @@
 
 - [Luna](pl/luna.md) - graphical / visual programming language
 
- 
+### Revoluationary Technology
+
+- [IPFS](http://www.infoq.com/presentations/data-ipfs-ipld)
 
 
