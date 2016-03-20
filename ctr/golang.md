@@ -11,4 +11,4 @@ service discovery / configuration service (sitting on top of serf)
 
 - [tidb](https://github.com/pingcap/tidb) - distributed NewSQL database with MySQL protocol frontend
 - [influxdb](https://github.com/influxdata/influxdb) - scalable datastore for metrics/events/real-time analytics
-- 
+
