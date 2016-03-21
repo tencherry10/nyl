@@ -12,6 +12,7 @@ Important Library
 
 Important Application
 
+- [LMDB](http://symas.com/mdb/)
 - [Redis](https://github.com/antirez/redis)
 - [PostgreSQL](http://git.postgresql.org/gitweb/)
 
