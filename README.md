@@ -17,6 +17,7 @@
 - [Written in C](ctr/c.md)
 - [Written in C++](ctr/cpp.md)
 - [Written In Go](ctr/golang.md)
+- [Written In Verilog](ctr/verilog.md)
 
 ### Learn
 
@@ -37,4 +38,4 @@
 
 - [IPFS](http://www.infoq.com/presentations/data-ipfs-ipld)
 - [Blockchain](revolutionary/blockchain.md)
-
+- [Sandstorm](https://sandstorm.io/)
