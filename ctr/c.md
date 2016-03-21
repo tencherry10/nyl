@@ -16,6 +16,10 @@ Important Application
 - [Redis](https://github.com/antirez/redis)
 - [PostgreSQL](http://git.postgresql.org/gitweb/)
 
+Application Specific
+
+- [Darknet](http://pjreddie.com/darknet/) / [Github](https://github.com/pjreddie/darknet) - Open source neural networks in C
+
 Interesting Application
 
 - [nxweb](http://nxweb.org/) - fast and lightweight web server in C
