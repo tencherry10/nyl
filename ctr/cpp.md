@@ -12,6 +12,7 @@ Interesting Application
 - [RethinkDB](https://github.com/rethinkdb/rethinkdb) - NoSQL dcoument store that support realtime application (DB pushes changes)
 - [kudu](https://github.com/apache/incubator-kudu) - fast columnar database to serve as the data analytic 
 storage layer for Hadoop
+- [mosh](https://github.com/mobile-shell/mosh) - interesting ssh replacement that allows intermitten connection
 
 Interesting Library
 
